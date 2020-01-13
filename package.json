@@ -8,8 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
-  "dependencies": {
+  "description": "",
+  "dependencies":{
    "express":"4.17.1"
 	}
 }
