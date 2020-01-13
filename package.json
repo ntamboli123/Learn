@@ -1,14 +1,15 @@
 {
-  "name": "Node",
+  "name": "firsttry",
   "version": "1.0.0",
-  "description": "",
   "main": "Script1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node script1.js" 
-
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
+  "dependencies": {
+   "express":"4.17.1"
+	}
 }
